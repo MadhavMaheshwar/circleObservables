@@ -1,10 +1,15 @@
-# Angular7crud
+# Observables Angular7/NodeJS/Postgresql
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Application server
+
+Run `node api/server.js` for a dev server. Navigate to `http://localhost:4000/`. Reload if you change any of the source files.
+
 
 ## Code scaffolding
 
